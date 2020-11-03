@@ -8,7 +8,7 @@ const Promise = require('bluebird');
 const program = require('commander');
 const dateFormat = require('dateformat');
 
-const REPORT_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdc0cj3EXmhDTTpMUhmA3pEX0TZALXXzyCGTlzaV1erkDUSaA/viewform";
+const REPORT_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdc0cj3EXmhDTTpMUhmA3pEX0TZALXXzyCGTlzaV1erkDUSaA/formResponse";
 
 const BUTTON_CLASS = "appsMaterialWizButtonPaperbuttonLabel";
 const DATE_INPUT_TYPE = "input[type='date']";
